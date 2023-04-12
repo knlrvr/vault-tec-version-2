@@ -10,7 +10,7 @@ const Contact = () => {
           <br /><em>or</em><br />
           <span className="text-yellow-400 text-xl"> 1 (800) VAULT-TEC </span>
           <br />
-          and we'll be more than happy to assist you! 
+          and we&apos;ll be more than happy to assist you! 
         </p>
       </div>
       <div className="text-center mt-12 text-3xl">

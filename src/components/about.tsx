@@ -18,7 +18,7 @@ const About = () => {
           <span className="text-yellow-300 font-mono"> Vault-Tec </span>
           is a corporation specializing in defense, originally based out 
           of Los Angeles, California. Following the success of our Vault™ 
-          demonstrations, we've happily expanded into Boston, MA, as well as 
+          demonstrations, we&apos;ve happily expanded into Boston, MA, as well as 
           Washington D.C.
           <br /><br />
           The primary focus of 
