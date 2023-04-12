@@ -65,7 +65,7 @@ const Services = () => {
             className='text-6xl text-yellow-400' />
           <span className="text-2xl">Security</span>
           <p className="text-sm">
-            Each member of a Vault's security force is hand-picked by the Overseer 
+            Each member of a Vault&apos;s security force is hand-picked by the Overseer 
             themselves. Each Vault is provided with enough firearms and armor to arm 
             ten men. Each Vault is designed with surface monitors and communication 
             systems to facilitate connections between Vaults.
